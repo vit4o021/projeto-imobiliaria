@@ -1,9 +1,12 @@
-# Projeto de uma imobiliária com o Pandas:
-Este projeto pessoal consiste em realizar um projeto em uma empresa imobiliária, onde a minha principal função é dar suporte às demandas do time de Machine Learning e do time de desenvolvimento.
+# Projeto de uma imobiliária com o Pandas
+
+## Sobre o projeto:
+Consiste em realizar um projeto em uma empresa imobiliária, onde a minha principal função é dar suporte às demandas do time de Machine Learning e do time de desenvolvimento.
 
 A base de dados que vai ser utilizada para desenvolver o projeto é uma base com dados de diferentes tipos de imóveis do Rio de Janeiro, como apartamento, casas, comércios, entre outros.
 Nessa base, serão encontrados os valores dos aluguéis de cada imóvel, condomínio, IPTU e também suas características, como: quantidade de quartos, suítes, vagas de garagem, etc.
 
+## Funcionalidades:
 Sobre as demandas do time de Machine Learning serão feitas:
 1) Importação e conhecimento da base de dados.
 2) Análise exploratória dos dados (Analisar quais os valores médios de aluguel por tipo de imóvel e qual o percentual de cada tipo de imóvel na base de dados).
