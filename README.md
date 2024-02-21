@@ -12,7 +12,7 @@ Sobre as demandas do time de Machine Learning serão feitas:
 2) Análise exploratória dos dados - Analisar quais os valores médios de aluguel por tipo de imóvel e qual o percentual de cada tipo de imóvel na base de dados.
 3) Tratar valores nulos - Visto que dados nulos não podem ser utilizados no treinamento de modelos de Machine Learning.
 4) Remover registros inconsistentes - Apartamentos que possuem valor de aluguel igual a 0 e apartamentos com o valor do condomínio igual a 0.
-5) Aplicar filtros - O time de ML deseja avaliar apenas imóveis em cenários específicos, como: 1. Apartamentos que possuem 1 quarto e aluguel menor que R$ 1200, 2. Apartamentos que possuem pelo menos 2 quartos, aluguel menor que R$ 3000 e área maior que 70 m².
+5) Aplicar filtros - O time de Machine Learning deseja avaliar apenas imóveis em cenários específicos, como: 1. Apartamentos que possuem 1 quarto e aluguel menor que R$ 1200, 2. Apartamentos que possuem pelo menos 2 quartos, aluguel menor que R$ 3000 e área maior que 70 m².
 6) Salvar os dados.
 
 Sobre as demandas do time de desenvolvimento serão feitas:
